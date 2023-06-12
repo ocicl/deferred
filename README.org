@@ -1,0 +1,10 @@
+* deferred
+
+A simple library allowing you to write code using deferred libraries.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/deferred.git   |
+| commit  | 1635948  |
+| systems | deferred |
+|---------+-------------------------------------------|
+
