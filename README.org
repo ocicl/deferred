@@ -4,6 +4,6 @@ A simple library allowing you to write code using deferred libraries.
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/Shinmera/deferred.git |
-| commit  | 4d3759b                                      |
+| commit  | 68fdde0                                      |
 | systems | deferred                                     |
 |---------+----------------------------------------------|
